@@ -1,0 +1,1 @@
+a merchant marks his goods up by num1 % and then offers a discount of num2 % on the marked price . what % profit does the merchant make after the discount ?

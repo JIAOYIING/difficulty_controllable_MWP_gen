@@ -1,0 +1,1 @@
+mrs. hilt needs to share $num1 equally among num2 total people. how much money will each person get?

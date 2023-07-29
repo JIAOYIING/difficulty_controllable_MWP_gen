@@ -1,0 +1,1 @@
+num1 ltr of water is added with num2 ltr of a solution containing num3 % of alcohol in the water . the % of alcohol in the new mixture is ?

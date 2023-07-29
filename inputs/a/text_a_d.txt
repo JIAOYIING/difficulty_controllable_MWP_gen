@@ -1,0 +1,1 @@
+the average of marks obtained by num1 boys was num2 . if the average of marks of passed boys was num3 and that of failed boys was num4 , the number of boys who passed the examination is ?

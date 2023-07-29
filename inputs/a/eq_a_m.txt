@@ -1,0 +1,1 @@
+num1+100=sub1; num2*sub1=sub2; sub2/100=sub3; sub1-sub3=sub4; sub4-100=unk1

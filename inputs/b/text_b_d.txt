@@ -1,0 +1,2 @@
+num1 red apples and num2 green apples are in the basket. how many apples are in the basket?
+
